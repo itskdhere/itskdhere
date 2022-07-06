@@ -6,12 +6,10 @@
 Here are some ideas to get you started:  -->
 
 <!-- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning SQL 
-
-<!-- 👯 I’m looking to collaborate on ... -->
+- 🌱 I’m currently learning: SQL && C++ ;
+- 💬 Ask me about: C || C++ || Arduino || IoT || Blynk Cloud ;
+- 📫 How to reach me: [My Website](https://itskdhere.pages.dev) ; 
 <!-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about C , C++ , Arduino , IoT , Blynk Cloud 
-- 📫 How to reach me: [itskdhere.pages.dev](https://itskdhere.pages.dev)
+<!-- 👯 I’m looking to collaborate on ... -->
 <!-- 😄 Pronouns: ... -->
 <!-- ⚡ Fun fact: ... -->
-
