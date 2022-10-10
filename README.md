@@ -2,7 +2,7 @@
 ### About Me:
  - Class 12th Student 👨‍💻
  - From Kolkata, India 🇮🇳
- - Fun Fact: I'm Introvert 🙂
+ <!--- Fun Fact: I'm Introvert 🙂-->
 ### Things I know a little bit: 
  - Languages:
     * C  && C++  ;
@@ -18,9 +18,10 @@
    * Home Automation
 ### Currently Learning:
 - C++ && DSA 
+- Javascript
 - ~~x86 Assembly~~ 
 - SQL 
-- Firebase 
+- Firebase and GCP
 ### How to Reach Me:
 - [My Website](https://itskdhere.pages.dev)
 
