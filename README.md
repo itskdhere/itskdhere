@@ -22,10 +22,13 @@
 - Firebase and GCP
 - SQL
 - ~~x86 Assembly~~ 
+
 ### How to Reach Me:
-🌐 [My Website](https://itskdhere.pages.dev)
+🌐 [itskdhere.pages.dev/contact](https://itskdhere.pages.dev/contact)
 
 📧 <itskdhere@pm.me>
+
+
    <!-- 🌱 I’m currently learning: SQL && C++ ; -->
    <!-- 💬 Ask me about: C || C++ || Arduino || IoT || Blynk Cloud ; -->
    <!-- 📫 How to reach me: -->
