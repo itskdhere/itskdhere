@@ -3,7 +3,7 @@
  - Class 12th Student 👨‍💻
  - From Kolkata, India 🇮🇳
  <!--- Fun Fact: I'm Introvert 🙂-->
-### Things I know a little bit: 
+ 
  - Languages:
     * C  && C++  ;
     * </ HTML >  and  .CSS{ }
@@ -16,18 +16,17 @@
    *  Cloudflare , Blynk IoT Cloud , Arduino IoT Cloud 
    * Internet of Things (IoT)
    * Home Automation
-### Currently Learning:
-- C++ && DSA 
-- Javascript && Node.js 
-- Firebase and GCP
-- SQL
-- ~~x86 Assembly~~ 
+- Currently Learning:
+  * C++ && DSA 
+  * Javascript && Node.js 
+  * Firebase and GCP
+  * SQL
+  * ~~x86 Assembly~~ 
 
 ### How to Reach Me:
 🌐 [itskdhere.pages.dev/contact](https://itskdhere.pages.dev/contact)
 
 📧 <itskdhere@pm.me>
-
 
    <!-- 🌱 I’m currently learning: SQL && C++ ; -->
    <!-- 💬 Ask me about: C || C++ || Arduino || IoT || Blynk Cloud ; -->
