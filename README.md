@@ -1,7 +1,7 @@
 # Hi there, I'm Krishnendu Das 👋
 ### About Me:
- - Class 12th Student 👨‍💻
- - From Kolkata, India 🇮🇳
+
+
  <!--- Fun Fact: I'm Introvert 🙂-->
  
  - Languages:
