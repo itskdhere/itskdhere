@@ -6,6 +6,7 @@
  
  - Languages:
     * C  && C++  ;
+     * Javascript
     * </ HTML >  and  .CSS{ }
     * SQL ;
 - Frameworks && Libraries:
@@ -18,15 +19,16 @@
    * Home Automation
 - Currently Learning:
   * C++ && DSA 
-  * Javascript && Node.js 
   * Firebase and GCP
-  * SQL
+  * Linux
+  * Docker
+  * NGiNX
   * ~~x86 Assembly~~ 
 
 ### How to Reach Me:
 🌐 [itskdhere.pages.dev/contact](https://itskdhere.pages.dev/contact)
 
-📧 <itskdhere@pm.me>
+📧 <kd@itskdhere.eu.org>
 
    <!-- 🌱 I’m currently learning: SQL && C++ ; -->
    <!-- 💬 Ask me about: C || C++ || Arduino || IoT || Blynk Cloud ; -->
