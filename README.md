@@ -6,7 +6,7 @@
  
  - Languages:
     * C  && C++  ;
-     * Javascript
+    * JS ;
     * </ HTML >  and  .CSS{ }
     * SQL ;
 - Frameworks && Libraries:
