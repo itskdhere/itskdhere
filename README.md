@@ -1,40 +1,59 @@
 # Hi there, I'm Krishnendu Das 👋
-### About Me:
+   <!-- Fun Fact: I'm Introvert 🙂 -->
 
-
- <!--- Fun Fact: I'm Introvert 🙂-->
- 
- - Languages:
-    * C  && C++  ;
-    * JS ;
-    * </ HTML >  and  .CSS{ }
-    * SQL ;
+### Technologies I Use:
+- Languages:
+  - C && C++ ;
+  - JavaScript && TypeScript ;
+  - </ HTML > and .CSS{ }
+  - SQL ;
 - Frameworks && Libraries:
-   * Arduino 
-   * Qt 
-- Others:
-   *  **MCUs:** ATMega328p , ESP8266 , ESP32 
-   *  Cloudflare , Blynk IoT Cloud , Arduino IoT Cloud 
-   * Internet of Things (IoT)
-   * Home Automation
+  - Express.js
+  - React.js
+  - Discord.js
+  - Arduino
+  - Qt
+- Databases:
+  - FireStore
+  - MongoDB
+  - Redis
+  - MySQL
+- Misc.:
+  - Node.js
+  - Docker
+  - NGINX
+  - Git & GitHub
+  - Linux: Ubuntu, Debian, Alpine
+- Cloud:
+  - Azure, GCP
+  - Netlify, Cloudflare
+  - FireBase, SupaBase, PocketBase
+  - Arduino IoT Cloud , Blynk IoT Cloud
+- Microcontrollers:
+  - ATMega328p
+  - ESP8266
+  - ESP32
 - Currently Learning:
-  * C++ && DSA 
-  * Firebase and GCP
-  * Linux
-  * Docker
-  * NGiNX
-  * ~~x86 Assembly~~ 
+  - Next.js
 
 ### How to Reach Me:
-🌐 [itskdhere.pages.dev/contact](https://itskdhere.pages.dev/contact)
-
+🌐 [itskdhere.eu.org](https://itskdhere.eu.org) <br>
 📧 <kd@itskdhere.eu.org>
 
-   <!-- 🌱 I’m currently learning: SQL && C++ ; -->
-   <!-- 💬 Ask me about: C || C++ || Arduino || IoT || Blynk Cloud ; -->
+### Others:
+🗝 GPG Key ID: `3A17B1404ABB0CAD`
+
+<br>
+<p align='center'>
+   🙂
+</p>
+
+
+   <!-- 🌱 I’m currently learning: -->
+   <!-- 💬 Ask me about: -->
    <!-- 📫 How to reach me: -->
    <!-- 🔭 I’m currently working on ... -->
-   <!-- 🤔 I’m looking for help with ... -->  
-   <!-- 👯 I’m looking to collaborate on ... -->  
-   <!-- 😄 Pronouns: ... -->  
+   <!-- 🤔 I’m looking for help with ... -->
+   <!-- 👯 I’m looking to collaborate on ... -->
+   <!-- 😄 Pronouns: ... -->
    <!-- ⚡ Fun fact: ... -->
