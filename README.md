@@ -1,46 +1,25 @@
 # Hi there, I'm Krishnendu Das 👋
    <!-- Fun Fact: I'm Introvert 🙂 -->
 
-### Technologies I Use:
-- Languages:
-  - C && C++ ;
-  - JavaScript && TypeScript ;
-  - </ HTML > and .CSS{ }
-  - SQL ;
-- Frameworks && Libraries:
-  - Express.js
-  - React.js
-  - Discord.js
-  - Arduino
-  - Qt
-- Databases:
-  - FireStore
-  - MongoDB
-  - Redis
-  - MySQL
-- Misc.:
-  - Node.js
-  - Docker
-  - NGINX
-  - Git & GitHub
-  - Linux: Ubuntu, Debian, Alpine
-- Cloud:
-  - Azure, GCP
-  - Netlify, Cloudflare
-  - FireBase, SupaBase, PocketBase
-  - Arduino IoT Cloud , Blynk IoT Cloud
-- Microcontrollers:
-  - ATMega328p
-  - ESP8266
-  - ESP32
-- Currently Learning:
-  - Next.js
+### 👨‍💻 Technologies I Use:
+- **Languages:** C, C++, JavaScript, TypeScript
+- **Frontend:** React.js, Redux, HTML, CSS, Tailwind
+- **API:** REST, GraphQL, WebSocket, socket.io
+- **Backend:** Node.js, Express.js, Docker, NGINX
+- **Databases:** FireStore, MongoDB, Redis, MySQL
+- **Frameworks:** Next.js Discord.js, Arduino, Qt
+- **IaaS:** Google Cloud Platform, Azure
+- **BasS:** FireBase, SupaBase, AppWrite
+- **PaaS:** Cloudflare, Vercel, Netlify
+- **Version Control:** Git, GitHub, GitLab
+- **OS:** Windows, Linux (Ubuntu, Debian, Alpine)
+- **Microcontrollers:** ATMega328p, ESP8266, ESP32
 
-### How to Reach Me:
+### 🛰️ How to Reach Me:
 🌐 [itskdhere.eu.org](https://itskdhere.eu.org) <br>
 📧 <kd@itskdhere.eu.org>
 
-### Others:
+### ⚙️ Others:
 🗝 GPG Key ID: `3A17B1404ABB0CAD`
 
 <br>
