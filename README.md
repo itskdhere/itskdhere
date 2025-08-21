@@ -1,25 +1,26 @@
 # Hi there, I'm Krishnendu Das 👋
+
    <!-- Fun Fact: I'm Introvert 🙂 -->
 
-### 👨‍💻 Technologies I Use:
-- **Languages:** C, C++, JavaScript, TypeScript
-- **Frontend:** React.js, Redux, HTML, CSS, Tailwind
-- **API:** REST, GraphQL, WebSocket, socket.io
-- **Backend:** Node.js, Express.js, Docker, NGINX
-- **Databases:** FireStore, MongoDB, Redis, MySQL
-- **Frameworks:** Next.js Discord.js, Arduino, Qt
-- **IaaS:** Google Cloud Platform, Azure
-- **BasS:** FireBase, SupaBase, AppWrite
-- **PaaS:** Cloudflare, Vercel, Netlify
-- **Version Control:** Git, GitHub, GitLab
-- **OS:** Windows, Linux (Ubuntu, Debian, Alpine)
-- **Microcontrollers:** ATMega328p, ESP8266, ESP32
+## 👨‍💻 Technologies I Use:
 
-### 🛰️ How to Reach Me:
-🌐 [itskdhere.eu.org](https://itskdhere.eu.org) <br>
-📧 <kd@itskdhere.eu.org>
+- **Languages:** C, C++, TypeScript, JavaScript, SQL, HCL
+- **Frontend:** Next.js, React.js, Vite, HTMX, HTML5
+- **Styling:** Tailwind CSS, SASS, CSS3, shadcn/ui
+- **API:** Axios, REST, GraphQL, WebSocket, socket.io, WebRTC
+- **Backend:** Node.js, Express.js, Passport.js, JWT, Prisma, Mongoose
+- **Databases:** PostgreSQL, MySQL, FireStore, MongoDB, Redis
+- **DevOps:** Docker, Terraform, GH Actions, Portainer, Nginx, Traefik, Tailscale
+- **Cloud:** GCP, Azure, Firebase, Supabase, Appwrite, Cloudflare, Vercel
+- **IoT:** Arduino, ATMega328p, ESP8266, ESP32, Raspberry Pi, Blynk
+- **Miscellaneous:** Git, GitHub, VS Code, Postman, Insomnia, VMware, Linux
 
-### ⚙️ Others:
+## 🛰️ How to Reach Me:
+
+🌐 [itskdhere.com](https://itskdhere.com) <br>
+
+## ⚙️ Others:
+
 🗝 GPG Key ID: `3A17B1404ABB0CAD`
 
 <br>
@@ -27,12 +28,11 @@
    🙂
 </p>
 
-
-   <!-- 🌱 I’m currently learning: -->
-   <!-- 💬 Ask me about: -->
-   <!-- 📫 How to reach me: -->
-   <!-- 🔭 I’m currently working on ... -->
-   <!-- 🤔 I’m looking for help with ... -->
-   <!-- 👯 I’m looking to collaborate on ... -->
-   <!-- 😄 Pronouns: ... -->
-   <!-- ⚡ Fun fact: ... -->
+<!-- 🌱 I’m currently learning: -->
+<!-- 💬 Ask me about: -->
+<!-- 📫 How to reach me: -->
+<!-- 🔭 I’m currently working on ... -->
+<!-- 🤔 I’m looking for help with ... -->
+<!-- 👯 I’m looking to collaborate on ... -->
+<!-- 😄 Pronouns: ... -->
+<!-- ⚡ Fun fact: ... -->
