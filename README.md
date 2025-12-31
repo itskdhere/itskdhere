@@ -4,14 +4,14 @@
 
 ## 👨‍💻 Technologies I Use:
 
-- **Languages:** C, C++, TypeScript, JavaScript, SQL, HCL
+- **Languages:** C, C++, TypeScript, JavaScript, SQL, HCL, Bash
 - **Frontend:** Next.js, React.js, Vite, HTMX, HTML5
-- **Styling:** Tailwind CSS, SASS, CSS3, shadcn/ui
+- **Styling:** CSS3, SASS, Tailwind CSS, shadcn/ui
 - **API:** Axios, REST, GraphQL, WebSocket, socket.io, WebRTC
 - **Backend:** Node.js, Express.js, Passport.js, JWT, Prisma, Mongoose
 - **Databases:** PostgreSQL, MySQL, FireStore, MongoDB, Redis
-- **DevOps:** Docker, Terraform, GH Actions, Portainer, Nginx, Traefik, Tailscale
-- **Cloud:** GCP, Azure, Firebase, Supabase, Appwrite, Cloudflare, Vercel
+- **DevOps:** Docker, Terraform, GH Actions, Portainer, Nginx, Traefik, Tailscale, Netdata
+- **Cloud:** Google Cloud, Railway, Firebase, Supabase, Appwrite, Cloudflare, Vercel
 - **IoT:** Arduino, ATMega328p, ESP8266, ESP32, Raspberry Pi, Blynk
 - **Miscellaneous:** Git, GitHub, VS Code, Postman, Insomnia, VMware, Linux
 
