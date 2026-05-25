@@ -2,7 +2,7 @@
 
    <!-- Fun Fact: I'm Introvert 🙂 -->
 
-## 👨‍💻 Technologies I Use:
+## ⚙️ Tech Stack
 
 - **Languages:** C, C++, TypeScript, JavaScript, SQL, Bash, HCL, YAML
 - **Frontend:** Next.js, React.js, Vite, HTMX, HTML5, CSS3, Tailwind CSS, SASS, shadcn/ui, Motion
@@ -13,13 +13,18 @@
 - **IoT:** Arduino, ATMega328p, ESP32, ESP8266, Raspberry Pi, Blynk, MQTT
 - **Tools:** Turborepo, Git, GitHub, VS Code, Postman, Linux, VMware Workstation
 
-## 🛰️ How to Reach Me:
+## 🔗 Links
 
-🌐 [itskdhere.com](https://itskdhere.com) <br>
+- [Portfolio Website](https://itskdhere.com)
+- [GitHub](https://github.com/itskdhere) • [GitLab](https://gitlab.com/itskdhere) • [Codeberg](https://codeberg.org/itskdhere)
+- [NPM Registry](https://www.npmjs.com/~itskdhere)
+- [Docker Hub](https://hub.docker.com/u/itskdhere) • [Hugging Face](https://huggingface.co/itskdhere)
+- [Visual Studio Marketplace](https://marketplace.visualstudio.com/publishers/itskdhere) • [Open VSX Registry](https://open-vsx.org/namespace/itskdhere)
 
-## ⚙️ Others:
+## 🗝️ GPG Keys
 
-🗝 GPG Key ID: `3A17B1404ABB0CAD`
+- [`3A17B1404ABB0CAD`](https://github.com/itskdhere.gpg)
+- [`24C22C49E588C2BB`](https://github.com/itskdhere.gpg)
 
 <br>
 <p align="center">
