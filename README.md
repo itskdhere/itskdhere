@@ -4,14 +4,14 @@
 
 ## ⚙️ Tech Stack
 
-- **Languages:** C, C++, TypeScript, JavaScript, SQL, Bash, HCL, YAML
+- **Languages:** C, C++, TypeScript, JavaScript, SQL, Bash
 - **Frontend:** Next.js, React.js, Vite, HTMX, HTML5, CSS3, Tailwind CSS, SASS, shadcn/ui, Motion
 - **Backend:** Node.js, Express.js, Passport.js, JWT, Better Auth, Prisma, Mongoose, GraphQL, WebSocket
 - **Database:** PostgreSQL, MySQL, Firestore, MongoDB, Redis
 - **DevOps:** Docker, Docker Swarm, Terraform, GitHub Actions, Portainer, Nginx, Traefik, Tailscale, Netdata, Beszel
 - **Cloud:** Google Cloud, Firebase, Cloudflare, Vercel
 - **IoT:** Arduino, ATMega328p, ESP32, ESP8266, Raspberry Pi, Blynk, MQTT
-- **Tools:** Turborepo, Git, GitHub, VS Code, Postman, Linux, VMware Workstation
+- **Tools:** Turborepo, Git, GitHub, VS Code Extension API, Postman, Linux, VMware Workstation
 
 ## 🔗 Links
 
