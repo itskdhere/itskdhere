@@ -6,14 +6,14 @@ A Full-Stack Developer with a strong focus on DevOps, Web Security, and Self-Hos
 
 ## ⚙️ Tech Stack
 
-- **Languages:** C, C++, TypeScript, JavaScript, SQL, Bash
-- **Frontend:** Next.js, React.js, Vite, HTMX, HTML5, CSS3, Tailwind CSS, SASS, shadcn/ui, Motion
-- **Backend:** Node.js, Express.js, Passport.js, JWT, Better Auth, Prisma, Mongoose, GraphQL, WebSocket
-- **Database:** PostgreSQL, MySQL, Firestore, MongoDB, Redis
-- **DevOps:** Docker, Docker Swarm, Terraform, GitHub Actions, Portainer, Nginx, Traefik, Tailscale, Netdata, Beszel
-- **Cloud:** Google Cloud, Firebase, Cloudflare, Vercel
+- **Languages:** C, C++, TypeScript, JavaScript, Python, SQL, Bash
+- **Frontend:** Next.js, React.js, Tailwind CSS, SASS, shadcn/ui, Recharts, Motion
+- **Backend:** Node.js, Express.js, Zod, OpenAPI, Swagger UI, JWT, Passport.js, Better Auth, REST, GraphQL
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firestore, Redis, Prisma ORM, Mongoose ODM
+- **DevOps:** Docker, Docker Swarm, Terraform, GitHub Actions, Nginx, Traefik, Tailscale, Netdata, Beszel, Portainer
+- **Cloud:** Google Cloud, Firebase, Cloudflare, Vercel, Render, Neon, UploadThing
 - **IoT:** Arduino, ATMega328p, ESP32, ESP8266, Raspberry Pi, Blynk, MQTT
-- **Tools:** Turborepo, Git, GitHub, VS Code Extension API, Postman, Linux, VMware Workstation
+- **Tools & Misc.:** Git, GitHub, Vite, Turborepo, Postman, Linux, VMware Workstation
 
 ## 🔗 Links
 
